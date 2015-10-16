@@ -17,3 +17,8 @@ git push -u origin master
 
 не забути перед цим
 git add Readme.md
+потім
+git commit -m "---- commit"
+потім
+git push -u origin master
+
