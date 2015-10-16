@@ -15,4 +15,5 @@ git push -u origin master
 git remote add origin https://github.com/kosyachenko/to_scheme.git
 git push -u origin master
 
-
+не забути перед цим
+git add Readme.md
